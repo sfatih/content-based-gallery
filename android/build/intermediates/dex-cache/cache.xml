@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\contentbasedgallery\appcenter-analytics\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1c5d1c4dac373d6c2020e05532856edd3f236322">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\contentbasedgallery-appcenter-analytics-unspecified_3e7e2ca94fb9237fb5b340d1d1336119335bd2a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\core-3.2.1_bd9d273ed09c621bced37a19e6bfc5308d93453e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.microsoft.appcenter.reactnative\appcenter-react-native\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c1ce1b45af99c135633e885ce6aa0fc0795f176e">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.microsoft.appcenter.reactnative-appcenter-react-native-1.0.1_d691282a1e95ede19a53a59c285cae0ac1173cc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.49.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="610b957661a666d16b2cd4664c6bf4370226dfd2">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.49.5_187d1a76326cc32d5dcb4fd7ae79b0e6308f01de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d6399340139f67ce4faba06e97f256ef0d6817c0">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-11.6.0_56057e958c8eafaea6f2388b4ad1928b293ed068.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\contentbasedgallery\react-native-image-resizer\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1d8b718f9827771b1b8579fb81f4bb9ab7e1b466">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\contentbasedgallery-react-native-image-resizer-unspecified_4dee245fce15d53e6f665758c3551295ff28bc19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.microsoft.appcenter\appcenter\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="eda6576c059ff0adca97704b9b20633854f5f11c">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.microsoft.appcenter-appcenter-1.0.0_347e56312cc82a564bd2179a08a0d8c00d336345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_700749fba205bc3b16e2314f8a08ccb2545285fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e4a9d8510de319af17459d3ec70e23559b83495b">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-11.6.0_a6f42ab74172e376f1b86d73153bf1c807e2d887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.6.0_b21ce887ef84e4bb9496ebb5bb56adcce72a092b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_5a4acbad18d2ed5a7998bb902bf918c785b5915f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_c4e6b1f804118b6cf14c008c3bec56333a898d2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.49.5\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_d634ad20725e39672023254f628232c29d709bcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.microsoft.appcenter\appcenter-analytics\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7f20fe80bdfa4e6617ab5d9e06a3b068974ab28d">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.microsoft.appcenter-appcenter-analytics-1.0.0_42ab301052916a0f8211c9dbf6a3fee6ab8ed1ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9c22269e1d6331aa1cc266ff8b1404a621b4896d">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-11.6.0_8802d81c7594224bed4df98be81fef7e8942bbc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.github.ybq\Android-SpinKit\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.github.ybq-Android-SpinKit-1.1.0_30d7044f8f9e81076b98202c9dfacf886e3ec4c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_2514db037bfe2108750d8001809cc77d459a0990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_57f6f7f2f679f5eb3ab59876fc1d9f51149e0826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_8654ae30fea28c26821e64608687918152cada67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_ccfcf65cdf5a1c7b264147d08de1e80cc158306b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b8fd995f9c6c2caeb49827f0b52e0e8cc621e0">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-11.6.0_add0326988f27215f609553ca25347aaf25855cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="863b37c463df79f340b5d83bbbfc63ad25612e01">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.6.0_542ac6eec65300eddd10d88e046a09d172dfc47d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_1f1137a4573531791284b43c4cfba13b1774a7f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_6f23a9aa9af9b7dd8981feec47d27b9a48c11110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_d341299291d5d7caec5480b9fb4b751febee855e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_04ac31c247d64f0cc5bb5f6ecf10a2f3a968a0fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_90a0933d7fc437fb994378aeaa90935bd55c134e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\contentbasedgallery\react-native-spinkit\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="47b99616af6817e323d7b404b2f1922ca22228ad">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\contentbasedgallery-react-native-spinkit-unspecified_abfd4815a713c9726b22c5c31be0a9678890063b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="47bcd0b3eac50dbe2f150987250a6507e10ef28a">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-11.6.0_cffe0f3cee0df64fadf3aa5d1dc212c5f8cf014b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1cde19cbf9be88547ab4b7f03668eac5d91bd611">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-11.6.0_326b38fc83e92455c4b768a5b337dacbe5c4303a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\contentbasedgallery\appcenter-crashes\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b8805843c62212f8acac0e8020a51c7840eebec9">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\contentbasedgallery-appcenter-crashes-unspecified_d5d84c310ddc03265360a15e97511c1ba34eeaae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\contentbasedgallery\appcenter\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c9c6187a27757a5b0e011aaaeba4ea68825595cb">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\contentbasedgallery-appcenter-unspecified_54bb66415a6f3dcc295d75a4e59c6a38d54e2606.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_5190877bc91c8bffb12dc23de66e9dec0b32a121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\.gradle\caches\modules-2\files-2.1\com.adobe.xmp\xmpcore\5.1.2\55615fa2582424e38705487d1d3969af8554f637\xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\xmpcore-5.1.2_9d52ef9f020c44615358f7bb40919aa6ad2421bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_270f05e97ccae2e3b5dbfbe06f4518ab9f10427c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.6.0_92cbab9afb3debb1b98f210801f2d72757230b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_b2a10b364b7bb6c88507e5713350990adacc323a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_25fee5154371171cdfe00817a9df0821c7f50a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\contentbasedgallery\react-native-image-to-base64\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85be868009321c035f66c5d84d0543e9c1af46f">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\contentbasedgallery-react-native-image-to-base64-unspecified_91fcb2684c5f5c5085c50f15691aa3bab04a9ea1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_1ac169cdf8d660f0b5c28aa48531318e7ac09b52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_7c0daaf1a86273a31bf29854c62fcfb80acb63a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_cb0c5d1a76c630749a16b1bc45b92d53123b0ab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\.gradle\caches\modules-2\files-2.1\com.drewnoakes\metadata-extractor\2.9.1\53fdf22be10c9d426ec63431c7342895bc642261\metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\metadata-extractor-2.9.1_51b196070cddca1626b29d6644da54783d3e212b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_1230cd7492bb38419214f47a693de996b9ce4bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="da443aff9cd3c2cd75b957e0547e1ca2c4f30308">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-11.6.0_d23b831f7cd7fb2005eff76a3157a41bfb731792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_ebcc4ca084855c1b971ae6c2bb3a0a2593065f31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.microsoft.appcenter\appcenter-crashes\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4d81a935d0733408db382cd79544fdd445d42e5f">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.microsoft.appcenter-appcenter-crashes-1.0.0_a3fb0f49456cb5d4278e4c7bc010ac70de6c6e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\contentbasedgallery\react-native-firebase\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5ab9e0e1a80d207cd0e883acb498fbb17aa4ea6f">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\contentbasedgallery-react-native-firebase-unspecified_c8e34b3e6a9bfb19f981bc1703f9bf92b5c9f6da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bff7bd70e4906aa2d9190e56461758be064e477d">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-11.6.0_69f55eaa5d26bedbd54fe33c144e2aabcdda1c31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_1ab33f7c77b2a3e53c5a4ff0b0910d7e4c2e79d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_a679ac8b3776d1402d197c475f6a055be25caf20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\exploded-aar\contentbasedgallery\react-native-camera\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9161da891dd3c9ae10d21b1a1f9f1b0ff683cfe">
+        <dex dex="C:\Users\s_fat\Desktop\bit\content-based-gallery\android\app\build\intermediates\pre-dexed\debug\contentbasedgallery-react-native-camera-unspecified_1a94a4603de27f24e5564143122d8a4e4fdaa2b6.jar" />
+    </item>
+
+</items>

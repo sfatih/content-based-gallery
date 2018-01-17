@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "474434073781",
+    "firebase_url": "https://elliptical-disk-161320.firebaseio.com",
+    "project_id": "elliptical-disk-161320",
+    "storage_bucket": "elliptical-disk-161320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474434073781:android:7cea9b01bf72376e",
+        "android_client_info": {
+          "package_name": "com.contentbasedgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474434073781-f1rkolkh92eibm9pq8gaf8d2lcmge65k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZeWspRqMxJio2SwBTJoV3Fv-4N4X3hAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

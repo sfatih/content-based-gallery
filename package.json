@@ -1,0 +1,37 @@
+{
+  "name": "content-based-gallery",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@expo/vector-icons": "^6.2.0",
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "eslint": "^4.14.0",
+    "eslint-plugin-react": "^7.5.1",
+    "jest-expo": "^22.0.0",
+    "react-base": "^0.2.0",
+    "react-native-firebase": "^3.1.0",
+    "react-navigation": "^1.0.0-beta.23",
+    "react-test-renderer": "16.0.0-beta.5"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "appcenter": "^1.0.1",
+    "appcenter-analytics": "^1.0.1",
+    "appcenter-crashes": "^1.0.1",
+    "babel-eslint": "^8.1.2",
+    "react": "16.0.0-beta.5",
+    "react-native": "^0.49.5",
+    "react-native-camera": "^0.9.5",
+    "react-native-image-resizer": "^0.1.1",
+    "react-native-image-to-base64": "^0.1.0",
+    "react-native-spinkit": "^1.0.3"
+  }
+}
