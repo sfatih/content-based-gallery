@@ -6,10 +6,12 @@
     "@expo/vector-icons": "^6.2.0",
     "babel-preset-react-native-stage-0": "^1.0.1",
     "eslint": "^4.14.0",
-    "eslint-plugin-react": "^7.5.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-jsx-a11y": "6.0.2",
+    "eslint-plugin-react": "^7.7.0",
     "jest-expo": "^22.0.0",
     "react-base": "^0.2.0",
-    "react-native-firebase": "^3.1.0",
     "react-navigation": "^1.0.0-beta.23",
     "react-test-renderer": "16.0.0-beta.5"
   },
@@ -32,6 +34,7 @@
     "react-native-camera": "^0.9.5",
     "react-native-image-resizer": "^0.1.1",
     "react-native-image-to-base64": "^0.1.0",
-    "react-native-spinkit": "^1.0.3"
+    "react-native-spinkit": "^1.0.3",
+    "react-native-firebase": "^3.1.0"
   }
 }
